@@ -1,0 +1,10 @@
+299  [main] INFO  org.example.order.CoffeeOrderBoard -- Added client name: Tom
+303  [main] INFO  org.example.order.CoffeeOrderBoard -- Added client name: Bob
+303  [main] INFO  org.example.order.CoffeeOrderBoard -- Added client name: Bill
+311  [main] INFO  org.example.order.CoffeeOrderBoard -- Deleted order: Order{orderNumber=1, clientName='Tom'}
+312  [main] INFO  org.example.order.CoffeeOrderBoard -- Added client name: John
+312  [main] INFO  org.example.order.CoffeeOrderBoard -- Added client name: Alice
+312  [main] INFO  org.example.order.CoffeeOrderBoard -- Deleted order: Order{orderNumber=3, clientName='Bill'}
+333  [main] INFO  org.example.order.CoffeeOrderBoard -- 2: Bob
+333  [main] INFO  org.example.order.CoffeeOrderBoard -- 4: John
+333  [main] INFO  org.example.order.CoffeeOrderBoard -- 5: Alice
